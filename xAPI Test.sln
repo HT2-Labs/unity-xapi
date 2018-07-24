@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D05A5D45-D41C-3FE2-57CE-6D552EAE47D0}") = "xAPI Test", "Assembly-CSharp.csproj", "{4CC341CD-746C-ED06-71DC-8B847B451B77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC341CD-746C-ED06-71DC-8B847B451B77}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4CC341CD-746C-ED06-71DC-8B847B451B77}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4CC341CD-746C-ED06-71DC-8B847B451B77}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4CC341CD-746C-ED06-71DC-8B847B451B77}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
